@@ -1,0 +1,6 @@
+/global/homes/r/rishita/656-Coding-project-2-attempt-2/build/CMakeFiles/rebuild_cache.dir
+/global/homes/r/rishita/656-Coding-project-2-attempt-2/build/CMakeFiles/edit_cache.dir
+/global/homes/r/rishita/656-Coding-project-2-attempt-2/build/CMakeFiles/sum_indirect.dir
+/global/homes/r/rishita/656-Coding-project-2-attempt-2/build/CMakeFiles/sum_vector.dir
+/global/homes/r/rishita/656-Coding-project-2-attempt-2/build/CMakeFiles/sum_direct.dir
+/global/homes/r/rishita/656-Coding-project-2-attempt-2/build/CMakeFiles/benchmark.dir
